@@ -2,7 +2,7 @@
   "name": "GARFIELD-PLUS",
   "version": "7.3.6",
   "description": "GARFIELD BY NOIZE .",
-  "main": "./Pinky_V2/bot.js",
+  "main": "./GARFIELD-PLUS/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
