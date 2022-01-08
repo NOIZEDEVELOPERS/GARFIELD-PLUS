@@ -7,11 +7,11 @@
 <a href="#"><img title="PinkyMwol" src="https://img.shields.io/badge/afnanplk-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://chat.whatsapp.com/Eq2IZ59kFaBEp8M8Y3Nrqd"><img title="join support" src="https://img.shields.io/badge/join_support-afnanplk/pinkymwol?color=black&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://chat.whatsapp.com/Eq2IZ59kFaBEp8M8Y3Nrqd"><img title="join support" src="https://img.shields.io/badge/join_support-Zenoixnoize/Garfield?color=black&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/afnanplk">afnanplk</a> to make it public
+Project created by <a href="https://github.com/Zenoixnoize">NOIZE</a> to make it public
     <br>
        | © |
         Reserved |
@@ -21,13 +21,11 @@ Project created by <a href="https://github.com/afnanplk">afnanplk</a> to make it
 ----
 
   <p align="center">
-  <a href="https://github.com/afnanplk/pinkymwol ">
-    <img src="https://img.shields.io/github/repo-size/afnanplk/lastpink?color=green&label=Repo%20total%20size&style=plastic">
-<p align="center">
-<a href="https://github.com/afnanplk/followers"><img title="Followers" src="https://img.shields.io/github/followers/afnanplk?color=red&style=flat-circle"></a>
-<a href="https://github.com/afnanplk/lastpink/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/afnanplk/lastpink?color=red&style=flat-square"></a>
-<a href="https://github.com/afnanplk/lastpink/network/members"><img title="Forks" src="https://img.shields.io/github/forks/afnanplk/lastpink?color=red&style=flat-square"></a>
-<a href="https://github.com/afnanplk/lastpink/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/afnanplk/lastpink?label=Watchers&color=red&style=flat-square"></a>
+  <a href="https://github.com/Zenoixnoize/GARFIELD-PLUS ">
+<a href="https://github.com/Zenoixnoize/followers"><img title="Followers" src="https://img.shiZelds.io/github/followers/NOIZE?color=red&style=flat-circle"></a>
+<a href="https://github.com/Zenoixnoize/GARFIELD-PLUS/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/ZENOIXNOIZE/GARFIELD?color=red&style=flat-square"></a>
+<a href="https://github.com/Zenoixnoize/GARFIELD-PLUS/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Zenoixnoize/GARFIELD-PLUS?color=red&style=flat-square"></a>
+<a href="https://github.com/Zenoixnoize/GARFIELD-PLUS/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Zenoixnoize/GARFIELD-PLUS?label=Watchers&color=red&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 
 ```
@@ -53,11 +51,9 @@ the user is responsible.
 
   ### Simple Method
   
-[![Deploy](https://www.brainswig.com/imgs/ai/clickhere.gif)](https://pinkybot.yolasite.com/)
-  
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@afnanplk/PinkyMwol-QR)
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/afnanplk/Pinky)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Zenoixnoize/GARFIELD-PLUS)
   
 ```if the 1st deploy button doesnt deploy use this (recomanded to use this 1st)```
  
@@ -91,10 +87,8 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
   
 ## Developers
   <div align="center">
-    
-  [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
-----|----|----
-[farhan-dqz](https://github.com/farhan-dqz)  | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk)
+|--
+[NOIZE](https://github.com/Zenoixnoize)  | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk)
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
   </div>
 
@@ -113,7 +107,7 @@ This project is protected by `GNU General Public Licence v3.0` license.
 add your own heroku button
   
   example :
-  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/afnanplk/Pinky)
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Zenoixnoize/GARFIELD-PLUS)
   
   change it into your repo link
 ```
