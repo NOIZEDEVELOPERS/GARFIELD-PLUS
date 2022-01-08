@@ -190,7 +190,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! use {pp} if you want to add profile picture also add {qt} if you want to add qoutes in your welcome message",
             "required": false,
-            "value": "  "
+            "value": "NOIZE"
         },
         "BAN_MESSAGE": {
             "description": "Customizable kick Message! Use => default, to change back.",
