@@ -77,9 +77,9 @@
             "MUST_TEXT": "```Please reply to any message```"
         },
         "heroku": {
-            "RESTART_DESC": "Restart pinky",
-            "RESTART_MSG": "ʀᴇꜱᴛᴀʀᴛɪɴɢ ᴘɪɴᴋʏ",
-            "SHUTDOWN_DESC": "Shutdown pinky",
+            "RESTART_DESC": "Restart Garfield",
+            "RESTART_MSG": "ʀᴇꜱᴛᴀʀᴛɪɴɢ Garfield",
+            "SHUTDOWN_DESC": "Shutdown Garfield",
             "SHUTDOWN_MSG": "```Shutting down ⛔```",
             "DYNO_DESC": "Check heroku dyno usage",
             "DYNO_TOTAL": "```Total Quota```",
@@ -143,7 +143,7 @@
         "memes": {
             "MEMES_DESC": "Photo memes you replied to.",
             "NEED_REPLY": "*Reply to a photo!*",
-            "DOWNLOADING": "```Downloading media & making meme...```"
+            "DOWNLOADING": "```Garfield Downloading media & making meme...```"
         },
         "ocr": {
             "OCR_DESC": "Reads the text on the photo you have replied.",
@@ -173,11 +173,11 @@
             "REMOVEBG_DESC": "Removes the background of the photos.",
             "NEED_PHOTO": "*Give me a photo!*",
             "NO_API_KEY": "*You don't have an API key!*\nYou can get it here: remove.bg.",
-            "RBGING": "```ʀᴇᴍᴏᴠɪɴɢ ʙᴀᴄᴋɢʀᴏᴜɴᴅ```"
+            "RBGING": "```Garfield Removing Background```"
         },
         "scrapers": {
             "TRANSLATE_DESC": "It translates with Google Translate. You must reply any message.",
-            "TRANSLATE_USAGE": ".trt tr it (From Turkish to Italian)",
+            "TRANSLATE_USAGE": ".trt si en (From sinhala to english)",
             "NEED_REPLY": "```Please reply to any message!```",
             "LANG": "Language",
             "FROM": "Translated Language",
@@ -214,12 +214,12 @@
             "SEARCHING": "* 🔎 Searching...*",
             "WIKI_DESC": "Searches query on Wikipedia.",
             "IMG_DESC": "Searches for related pics on Google.",
-            "IMG": "Uploading photo ```{}``` number ```{} ```..."
+            "IMG": "Garfield Uploading photo ```{}``` number ```{} ```..."
         },
         "sticker": {
             "STICKER_DESC": "It converts your replied photo or video to sticker.",
             "NEED_REPLY": "\n*Reply to a photo or video!*\n",
-            "DOWNLOADING": "ᴄʀᴇᴀᴛɪɴɢ ꜱᴛɪᴄᴋᴇʀ"
+            "*Garfield Downloading ⏮️⏪▶️⏩⏭️*": "*Creating Sticker 🌸*"
         },
         "system_stats": {
             "ALIVE_DESC": "Does bot work?",
@@ -241,14 +241,14 @@
         },
         "updater": {
             "UPDATER_DESC": "Checks the update for pinky.",
-            "UPDATE": "ʏᴏᴜʀ ᴘɪɴᴋʏ ɪꜱ ᴄᴏᴍᴘʟᴇᴛᴇʟʏ ᴜᴘ-ᴛᴏ-ᴅᴀᴛᴇ",
+            "UPDATE": "ʏᴏᴜʀ ɢᴀʀꜰɪᴇʟᴅ ɪꜱ ᴄᴏᴍᴘʟᴇᴛᴇʟʏ ᴜᴘ-ᴛᴏ-ᴅᴀᴛᴇ",
             "NEW_UPDATE": "*New update available for pinky!*\n\n ```use .list for commands``` \n\n *ask support group before updating or your bot might stop working* \n\n https://chat.whatsapp.com/EWLP9VPgYmgGff6NORWSKk \n\n *-if bot stop working you will have to re-deploy* \n\n Updates are:\n\n ",
             "UPDATE_NOW_DESC": "It makes updates.",
-            "UPDATING": "ᴘɪɴᴋʏ ᴜᴘᴅᴀᴛɪɴɢ...",
+            "UPDATING": "ɢᴀʀꜰɪᴇʟᴅ ᴜᴘᴅᴀᴛɪɴɢ...",
             "INVALID_HEROKU": "*❌ Your Heroku information is wrong!*",
             "UPDATED": "*✅ ꜱᴜᴄᴄᴇꜱꜱꜰᴜʟʟʏ ᴜᴘᴅᴀᴛᴇᴅ!*",
             "UPDATED_LOCAL": "*✅ Successfully Updated!*",
-            "AFTER_UPDATE": "*💬 ᴘɪɴᴋʏ ʀᴇꜱᴛᴀʀᴛɪɴɢ ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ!*",
+            "AFTER_UPDATE": "*💬 ɢᴀʀꜰɪᴇʟᴅ ʀᴇꜱᴛᴀʀᴛɪɴɢ ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ!*",
             "IN_AF": "*Please check* ```HEROKU_APP_NAME``` *and* ```app name``` *They must be same.*\n*If these two values ​​are the same, please restore* ```HEROKU_API_KEY```\n\n_To access these settings, use Heroku >> App >> Settings >> Reavel Config Vars_\n_To renew your API key, follow these steps, Heroku >> Account >> API Key then replace old api key in config vars._"
         },
         "whois": {
@@ -279,7 +279,7 @@
             "HUMI": "Humidity",
             "WIND": "Wind Speed",
             "CLOUD": "Cloud",
-            "NOT_FOUND": "```I couldn't find a city with this name. 😖```"
+            "NOT_FOUND": "```I couldn't find a city with this name. Sorry sago 💮```"
         },
         "web": {
             "SPEEDTEST_DESC": "Measures Download and Upload speed.",
@@ -546,7 +546,7 @@
             "RMLINK": "Read More",
             "NEWS": "News Content",
             "NEWST": "News Title",
-             "NOT_FOUND": "```oops...I couldn't find a category with this name. 😖```",
+             "NOT_FOUND": "```oops...I couldn't find a category with this name.Sorry sago 🌸```",
             "SONG": "Song",
             "ALBUM": "Album",
             "TITLE": "Title",
@@ -593,7 +593,7 @@
             "M_AUT": "Music Author:"
         },
         "lyrics": {
-            "LY_DESC": "Pinky will find the lyrics of the song.",
+            "LY_DESC": "Garfield will find the lyrics of the song.",
             "NEED": "\n```You Must Write Any Song!```\n",
             "SLY": "Lyrics:",
             "AUT": "Song Owner:",
